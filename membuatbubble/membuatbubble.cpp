@@ -6,4 +6,4 @@ int n;
 
 int main() {
 
-}
+} 
